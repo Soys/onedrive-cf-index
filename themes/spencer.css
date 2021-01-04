@@ -257,3 +257,10 @@ a.item:hover {
     opacity: 0;
   }
 }
+.version {
+  opacity:0.4;
+  text-align:right;
+  position:fixed;
+  bottom:0;
+  right:0;
+}
