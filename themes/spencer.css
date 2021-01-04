@@ -130,7 +130,7 @@ a.item:hover {
   border:1px #000 solid;
 }
 
-.download-button {
+.download-button:hover {
   border:1px #000 solid;
   background-color:#fff;
   color:#000;
