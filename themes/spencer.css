@@ -127,6 +127,13 @@ a.item:hover {
   user-select: none;
   border-radius: 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
+  border:1px #000 solid;
+}
+
+.download-button {
+  border:1px #000 solid;
+  background-color:#fff;
+  color:#000;
 }
 
 .markdown-body {
