@@ -95,8 +95,10 @@ footer {
   font-size: 0.8rem;
   color: #666;
   width: calc(100% - 40px);
-  padding: 1.6rem 0rem;
+  /*padding: 1.6rem 0rem;*/
   text-align: center;
+  position:fixed;
+  bottom:0;
 }
 
 footer a {
